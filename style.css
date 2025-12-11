@@ -5,6 +5,6 @@ img {
 body{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background: green;
-    color: red;
+    background: linear-gradient(to left, red, green);
+    color: yellow;
 }
